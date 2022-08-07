@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reactreduxmovieapp/static/css/main.0848b690.css",
+    "main.js": "/reactreduxmovieapp/static/js/main.123f26b6.js",
+    "static/media/user.png": "/reactreduxmovieapp/static/media/user.109eb92014ac0b55efdf.png",
+    "index.html": "/reactreduxmovieapp/index.html",
+    "main.0848b690.css.map": "/reactreduxmovieapp/static/css/main.0848b690.css.map",
+    "main.123f26b6.js.map": "/reactreduxmovieapp/static/js/main.123f26b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0848b690.css",
+    "static/js/main.123f26b6.js"
+  ]
+}
